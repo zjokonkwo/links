@@ -12,6 +12,6 @@ describe "The home page" do
 
     a_count = all("a").count
     expect(a_count).to be >= 3,
-                       "Expected page to have at least three <a> link elements, but found #{a_count} instead."
+                       "Expected page to have at least three 'a' HTML link elements, but found #{a_count} instead."
   end
 end
