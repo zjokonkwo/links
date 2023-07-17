@@ -19,7 +19,7 @@ end
 describe "The home page" do
   it "has the DOCTYPE declaration as the VERY FIRST line.", points: 1 do
     visit "/"
-    
+
     source_code = page.html
     source_code_without_extra_spaces = source_code.strip
     first_line = source_code_without_extra_spaces.split("\n").first
