@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <Title> Zephyrinus Okonkwo</Title>  
+    <meta name="author" content="Zephyrinus Okonkwo">
+    <style>
+      body {
+        padding-top: 40px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <div class="banner">
+      <img src="/Thumbnails/Zephyrinus Okonkwo Headshot 2021.jpg" alt="Zephyrinus Okonkwo"class="banner-image">
+    </div>
+    <style>
+      .banner-image {
+        width: 128px;
+        height: 128px;
+        object-fit: cover;
+        border-radius: 128px; }
+     .thumbnail {
+        width: 48px;
+        height: 48px;
+        border-radius: 48px;
+        object-fit: cover;
+      }
+      body {
+  background-color: #004643;
+}
+
+.name {
+  color: #fffffe;
+}
+
+.social-icons a {
+  color: #fffffe;
+  text-decoration: none;
+}
+.link {
+  background-color: #f9bc60;
+}
+
+.link a {
+  color: #001e1d;
+  text-decoration: none;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 640px;
+}
+.link {
+  background-color: #f9bc60;
+  display: flex;
+  align-items: center;
+}
+.link a {
+  color: #001e1d;
+  text-decoration: none;
+  text-align: center;
+  flex-grow: 1;
+}
+* {
+  border: thin red solid;
+}
+.name {
+  color: #fffffe;
+  display: flex;
+  justify-content: center;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-around;
+}
+    </style>
+  </head>
+  <body>
+    <div class="name">
+      Zephyrinus Okonkwo
+    </div>
+    <div class="Hello World">
+      Hello, World
+    </div>
+    <div class="social-icons">
+    <a href="https://www.linkedin.com/in/zokonkwo/" target="_blank"> Linkedin 
+    </a>
+
+  </body>
+</html>
